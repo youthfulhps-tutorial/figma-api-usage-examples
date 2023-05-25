@@ -4,7 +4,7 @@
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
-    "get": "ts-node index.ts"
+    "export-svgs": "ts-node scripts/exportSvgs.ts"
   },
   "dependencies": {
     "axios": "^1.4.0",
